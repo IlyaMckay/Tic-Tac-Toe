@@ -1,3 +1,5 @@
+[![Apache License 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 # TicTacToe Game
 
 This is a simple implementation of the classic TicTacToe game in Python.
